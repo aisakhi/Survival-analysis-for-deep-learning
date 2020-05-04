@@ -1,0 +1,8 @@
+
+In this project, we train a convolutional neural network. To implement this code, download the following python modules:
+•	Numpy
+•	Matplotlib
+•	Pandas
+•	Scikit-survival
+•	Tensorflow
+It is advisable to download the tensorflow version 1.13.1. 
